@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "legendre-poly": "^1.0.0",
     "mathjs": "^11.3.0"
   }
 }
